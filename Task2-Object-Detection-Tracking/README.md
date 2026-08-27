@@ -26,20 +26,19 @@ A confidence threshold of **0.4** is used to filter low-confidence detections.
 
 ## Workflow
 
-```text
 Input Video
-     ↓
+↓
 OpenCV
-     ↓
+↓
 YOLO11n Object Detection
-     ↓
+↓
 Confidence Filtering
-     ↓
+↓
 Deep SORT Tracking
-     ↓
+↓
 Bounding Boxes + Labels + Tracking IDs
-     ↓
-Annotated Output Video```
+↓
+Annotated Output Video
 
 
 ## Google Drive

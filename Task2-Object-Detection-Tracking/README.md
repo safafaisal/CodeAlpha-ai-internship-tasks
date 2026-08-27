@@ -39,7 +39,7 @@ Deep SORT Tracking
      ↓
 Bounding Boxes + Labels + Tracking IDs
      ↓
-Annotated Output Video
+Annotated Output Video```
 
 
 ## Google Drive

@@ -25,7 +25,7 @@ The system processes the video frame by frame, detects selected objects, tracks 
 A confidence threshold of **0.4** is used to filter low-confidence detections.
 
 ## Workflow
-
+```text
 Input Video
 ↓
 OpenCV
@@ -39,7 +39,7 @@ Deep SORT Tracking
 Bounding Boxes + Labels + Tracking IDs
 ↓
 Annotated Output Video
-
+```
 
 ## Google Drive
 
